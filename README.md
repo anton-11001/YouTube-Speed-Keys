@@ -1,5 +1,7 @@
 # YouTube Speed Keys
 
+![YouTube Speed Keys icon](icons/icon-128.png)
+
 A small Chrome extension that changes the playback speed of the active YouTube video with keyboard shortcuts. It works with regular videos, YouTube Shorts, and videos opened through YouTube's in-page navigation.
 
 ## Shortcuts
